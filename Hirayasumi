@@ -1,0 +1,17 @@
+{
+  "title": "Hirayasumi",
+  "description": "A high school student, Imada, befriends his classmate, Urashima, and falls in love with him. Even though Urashima likes Imada back, their relationship isn’t getting anywhere. Imada resolves to confess to bring an end to this “unrequited” love. A story of first love.",
+  "artist": "Shinzo Keigo",
+  "author": "Shinzo Keigo",
+  "cover": "https://i.imgur.com/",
+  "chapters": {
+    "Day 1": {
+      "title": "Hiroto and Natsumi",
+      "volume": "1",
+      "groups": {
+        "Hirayasumi Scans": "/proxy/api/imgur/chapter/WMaBW96/"
+      },
+      "last_updated": "1628047103"
+       }
+  }
+}

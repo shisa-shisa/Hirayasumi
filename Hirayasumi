@@ -5,13 +5,13 @@
   "author": "Shinzo Keigo",
   "cover": "https://imgur.com/1BK6SAb.png",
   "chapters": {
-    "1": {
-      "title": "Chapter 1",
+    "Day 1": {
+      "title": "Hiroto and Natsumi",
       "volume": "1",
       "groups": {
-        "N/A": "/proxy/api/imgur/chapter/WMaBW96/"
+        "Tsubame Club": "/proxy/api/imgur/chapter/WMaBW96/"
       },
-      "last_updated": "1628047103"
+      "last_updated": "1629870272"
     },
     "2": {
       "title": "Chapter 2",

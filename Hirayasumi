@@ -1,9 +1,8 @@
-{
   "title": "Hirayasumi",
-  "description": "A high school student, Imada, befriends his classmate, Urashima, and falls in love with him. Even though Urashima likes Imada back, their relationship isn’t getting anywhere. Imada resolves to confess to bring an end to this “unrequited” love. A story of first love.",
+  "description": "Work, marriage, family, life, the future… in this era of endless troubles, rest your weary legs at the flat house.",
   "artist": "Shinzo Keigo",
   "author": "Shinzo Keigo",
-  "cover": "https://i.imgur.com/OTNsz1S",
+  "cover": "https://imgur.com/a/OTNsz1S",
   "chapters": {
     "Day 1": {
       "title": "Hiroto and Natsumi",
@@ -11,7 +10,7 @@
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/EtnckLD/"
       },
-      "last_updated": "1629866274"
-       }
+      "last_updated": "1616368746"
+    }
   }
 }

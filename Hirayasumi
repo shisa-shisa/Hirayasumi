@@ -1,9 +1,9 @@
- {
- "title": "Hirayasumi",
+{
+  "title": "Hirayasumi",
   "description": "Work, marriage, family, life, the future…in this era of endless troubles, rest your weary legs at the flat house.",
   "artist": "Shinzo Keigo",
   "author": "Shinzo Keigo",
-  "cover": "https://i.imgur.com/1BK6SAb.png",
+  "cover": "https://imgur.com/1BK6SAb.png",
   "chapters": {
     "Day 1": {
       "title": "Hiroto and Natsumi",
@@ -11,7 +11,7 @@
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/EtnckLD/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1629868395"
     }
   }
 }

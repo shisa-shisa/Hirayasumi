@@ -12,22 +12,6 @@
         "Tsubame Club": "/proxy/api/imgur/chapter/EtnckLD/"
       },
       "last_updated": "1629870272"
-    },
-    "2": {
-      "title": "Chapter 2",
-      "volume": "1",
-      "groups": {
-        "N/A": "/proxy/api/imgur/chapter/4J3R1NU/"
-      },
-      "last_updated": "1628693809"
-    },
-    "3": {
-      "title": "Chapter 3 [END]",
-      "volume": "1",
-      "groups": {
-        "N/A": "/proxy/api/imgur/chapter/daUL9OI/"
-      },
-      "last_updated": "1629674232"
     }
   }
 }

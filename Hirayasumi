@@ -5,6 +5,14 @@
   "author": "Shinzo Keigo",
   "cover": "https://imgur.com/1BK6SAb.png",
   "chapters": {
+    "0": {
+      "title": "Hiroto's Day Off",
+      "volume": "1",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgur/chapter/wCvC1lw/"
+      },
+      "last_updated": "1630589140"
+    },
     "1": {
       "title": "Hiroto and Natsumi",
       "volume": "1",

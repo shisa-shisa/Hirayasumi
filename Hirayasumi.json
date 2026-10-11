@@ -8,98 +8,106 @@
     "0": {
       "title": "Hiroto-kun's Day Off",
       "volume": "1",
+      "last_updated": "1630589140",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/wCvC1lw/"
-      },
-      "last_updated": "1630589140"
+      }
     },
     "1": {
       "title": "Hiroto and Natsumi",
       "volume": "1",
+      "last_updated": "1629870272",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/EtnckLD/"
-      },
-      "last_updated": "1629870272"
-      },
-     "2": {
+      }
+    },
+    "2": {
       "title": "I Don't Need 100 Friends",
       "volume": "1",
+      "last_updated": "1630519704",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/upQarUB/"
-      },
-      "last_updated": "1630519704"
-      },
+      }
+    },
     "3": {
       "title": "Jacket and Desk Lamp",
       "volume": "1",
+      "last_updated": "1630928745",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/us1AYEq/"
-      },
-      "last_updated": "1630928745"
-      },
+      }
+    },
     "4": {
       "title": "Fretting and Sparkling",
       "volume": "1",
+      "last_updated": "1631111376",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/sA3olNq/"
-      },
-      "last_updated": "1631111376"
-      },
+      }
+    },
     "5": {
       "title": "I Can Manage On My Own",
       "volume": "1",
+      "last_updated": "1631460770",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/CGm1U90/"
-      },
-      "last_updated": "1631460770"
-      },
+      }
+    },
     "6": {
       "title": "White Hydrangea",
       "volume": "1",
+      "last_updated": "1631717016",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/KuMKOSM/"
-      },
-      "last_updated": "1631717016"
-      },
+      }
+    },
     "7": {
       "title": "Evening Shower",
       "volume": "1",
+      "last_updated": "1631975220",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/wmIHF8q/"
-      },
-      "last_updated": "1631975220"
-      },
+      }
+    },
     "8": {
       "title": "Cutting Board and Shima-aji",
       "volume": "2",
+      "last_updated": "1632756500",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/viAhjis/"
-      },
-      "last_updated": "1632756500"
-      },
+      }
+    },
     "9": {
       "title": "Natsumi's Angry Road!",
       "volume": "2",
+      "last_updated": "1633106135",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/CWqWpVS/"
-      },
-      "last_updated": "1633106135"
-      },
+      }
+    },
     "10": {
       "title": "Part-time Job Debut",
       "volume": "2",
+      "last_updated": "1634046753",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/j3fYySV/"
-      },
-      "last_updated": "1634046753"
-      },
+      }
+    },
     "11": {
       "title": "The Two Who Chase Their Dreams",
       "volume": "2",
+      "last_updated": "1634139192",
       "groups": {
         "Tsubame Club": "/proxy/api/imgur/chapter/RQD7Md6/"
-      },
-      "last_updated": "1634139192"
+      }
+    },
+    "73": {
+      "title": "Visit",
+      "volume": "8",
+      "last_updated": "1791743583",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/ne7bae6og45"
+      }
     }
   }
 }

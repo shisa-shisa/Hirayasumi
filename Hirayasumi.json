@@ -197,12 +197,60 @@
         "Tsubame Club": "/proxy/api/imgchest/chapter/ej7mdbv697d"
       }
     },
+    "85": {
+      "title": "Nikaidou's Suffering",
+      "volume": "9",
+      "last_updated": "1791830596",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/lqyex99mx4d"
+      }
+    },
+    "86": {
+      "title": "Udon and Deadlines",
+      "volume": "10",
+      "last_updated": "1791830673",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/5xy2kwwqnyl"
+      }
+    },
+    "87": {
+      "title": "Fate",
+      "volume": "10",
+      "last_updated": "1791830818",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/dl7p3xxn84o"
+      }
+    },
+    "88": {
+      "title": "Answer",
+      "volume": "10",
+      "last_updated": "1791830864",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/n87wawwn34x"
+      }
+    },
+    "89": {
+      "title": "Flower and Ramen",
+      "volume": "10",
+      "last_updated": "1791830993",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/6eyrepp5e7p"
+      }
+    },
     "74.5": {
       "title": "Natsumi's Plan to Live Alone",
       "volume": "8",
       "last_updated": "1791744914",
       "groups": {
         "Tsubame Club": "/proxy/api/imgchest/chapter/924968lav4n"
+      }
+    },
+    "89.5": {
+      "title": "The Idle Days of an Art Student",
+      "volume": "10",
+      "last_updated": "1791831054",
+      "groups": {
+        "Tsubame Club": "/proxy/api/imgchest/chapter/ne7ba883n45"
       }
     }
   }
